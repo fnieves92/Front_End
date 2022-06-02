@@ -1,0 +1,55 @@
+.cuerpo{
+    background-color: #E6E6E6;
+}
+.espaciovacio{
+    width: 1440px;
+    height: 210px;
+}
+.espaciovacio2{
+    width: 1430px;
+    height: 180px;
+    background-color: #fff;
+}
+
+.titlebackground{
+    position: absolute;
+    width: 1440px;
+    height: 1px;
+    text-align: center;
+   }
+
+.tituloprincipal{
+    position: absolute;
+    width: 1440px;
+    height: 40px;
+    left: 0px;
+    top: 188px;
+    background-color: #C4C4C4;
+    text-align: center;
+    color: #005677;
+    font-size: 35px;
+    }
+.subtitulos{
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 376px;
+
+    background: #C4C4C4;
+}
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 146.37px;
+    left: 670px;
+    top: 20.91px;    
+}
+
+h1{
+    height: 29.871244430541992px;
+    width: 1013px;
+    left: 213px;
+    top: 202.1287841796875px;
+    border-radius: nullpx;
+}
